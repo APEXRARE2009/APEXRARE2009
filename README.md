@@ -9,6 +9,7 @@
 
 ### I am in:
 <img src="https://img.shields.io/badge/discord-0a0a0a?style=for-the-badge&logo=discord&logoColor=#5865F2"/>
+2009#0747
 
 <img src="https://img.shields.io/badge/WhatsApp-0a0a0a?style=for-the-badge&logo=WhatsApp&logoColor=#25D366"/>
 
