@@ -14,6 +14,4 @@
 
 <img src="https://img.shields.io/badge/gmail-0a0a0a?style=for-the-badge&logo=gmail&logoColor=#EA4335"/>
 
-### CONTACT:
-
 more about me - http://apex2009.tilda.ws/
