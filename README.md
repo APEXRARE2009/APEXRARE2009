@@ -7,8 +7,9 @@
 ### I use the editor:
 <img src="https://img.shields.io/badge/sublime-0a0a0a?style=for-the-badge&logo=sublimetext&logoColor=#FF9800"/>
 
-
-
-
+{
+    "tab_size": 4,
+    "translate_tabs_to_spaces": false
+}
 
 more about me - http://apex2009.tilda.ws/
