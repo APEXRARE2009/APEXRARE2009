@@ -14,6 +14,6 @@
 
 <img src="https://img.shields.io/badge/gmail-0a0a0a?style=for-the-badge&logo=gmail&logoColor=#EA4335"/>
 
-more about me - [<img src="https://img.shields.io/badge/gmail-0a0a0a?style=for-the-badge&logo=gmail&logoColor=#EA4335"/>](http://apex2009.tilda.ws/)
+more about me - [click](http://apex2009.tilda.ws/)
 
 ![Image alt](https://mir-s3-cdn-cf.behance.net/project_modules/1400/223e6792880429.5e569ff84ebef.gif)
