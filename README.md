@@ -25,6 +25,8 @@
 
 <img src="https://img.shields.io/badge/gmail-0a0a0a?style=for-the-badge&logo=gmail&logoColor=#EA4335"/>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PUBG2009&layout=compact&theme=vision-friendly-dark)](https://github.com/PUBG2009/github-readme-stats)
+
 ---
 
 more about me - [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=1800&pause=200&vCenter=true&multiline=true&width=50&height=25&lines=click)](http://apex2009.tilda.ws/)
