@@ -26,7 +26,7 @@
 <img src="https://img.shields.io/badge/gmail-0a0a0a?style=for-the-badge&logo=gmail&logoColor=#EA4335"/>
 
 ### My stats:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PUBG2009&layout=compact&hide_border=true&bg_color=0a0a0a&title_color=ff0055&theme=vision-friendly-dark)](https://github.com/PUBG2009/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PUBG2009&layout=compact&border_radius=5&hide_border=true&bg_color=0a0a0a&title_color=ff0055&theme=vision-friendly-dark)](https://github.com/PUBG2009/github-readme-stats)
 
 ---
 
