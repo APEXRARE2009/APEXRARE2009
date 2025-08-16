@@ -21,7 +21,7 @@
 ### I am in:
 <img src="https://img.shields.io/badge/discord-0a0a0a?style=for-the-badge&logo=discord&logoColor=#5865F2"/>
 
-<img src="https://img.shields.io/badge/telegram-0a0a0a?style=for-the-badge&logo=gmail&logoColor=#EA4335"/>
+<img src="https://img.shields.io/badge/telegram-0a0a0a?style=for-the-badge&logo=telegram&logoColor=#527dff"/>
 
 <img src="https://img.shields.io/badge/WhatsApp-0a0a0a?style=for-the-badge&logo=WhatsApp&logoColor=#25D366"/>
 
