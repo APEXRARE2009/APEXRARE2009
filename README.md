@@ -16,7 +16,7 @@
 <img src="https://img.shields.io/badge/html-0a0a0a?style=for-the-badge&logo=html5&logoColor=#FF4500"/> <img src="https://img.shields.io/badge/css-0a0a0a?style=for-the-badge&logo=css3&logoColor=blue"/> <img src="https://img.shields.io/badge/js-0a0a0a?style=for-the-badge&logo=css3&logoColor=blue"/> <img src="https://img.shields.io/badge/php-0a0a0a?style=for-the-badge&logo=css3&logoColor=blue"/> <img src="https://img.shields.io/badge/MySql-0a0a0a?style=for-the-badge&logo=css3&logoColor=blue"/> <img src="https://img.shields.io/badge/github-0a0a0a?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/figma-0a0a0a?style=for-the-badge&logo=figma&logoColor=00FF7F"/>
 
 ### I use the editor:
-<img src="https://img.shields.io/badge/sublime-0a0a0a?style=for-the-badge&logo=sublimetext&logoColor=#FF9800"/>
+<img src="https://img.shields.io/badge/sublime-0a0a0a?style=for-the-badge&logo=sublimetext&logoColor=#FF9800"/> <img src="https://img.shields.io/badge/vscode-0a0a0a?style=for-the-badge&logo=sublimetext&logoColor=#625ff5"/>
 
 ### I am in:
 <img src="https://img.shields.io/badge/discord-0a0a0a?style=for-the-badge&logo=discord&logoColor=#5865F2"/>
